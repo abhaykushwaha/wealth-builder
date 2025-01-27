@@ -1,0 +1,13 @@
+{
+  "MovementThreshold": 0.01,
+  "TimeThreshold": 10,
+  "MagicNumber": 1551,
+  "Maxposition": 1,
+  "Sleepsecond": 5,
+  "StopLossPercent": 1.35,
+  "RR": 4.4,
+  "TrailSl": false,
+  "increaselotafter": 2,
+  "Vol_Multiplier": 2,
+  
+}
