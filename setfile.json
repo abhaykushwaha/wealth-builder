@@ -10,16 +10,4 @@
   "increaselotafter": 3,
   "Vol_Multiplier": 1,
 }
-{
-  "MovementThreshold": 0.1,
-  "TimeThreshold": 60,
-  "MagicNumber": 1551,
-  "Maxposition": 1,
-  "Sleepsecond": 5,
-  "StopLossPercent": 0.5,
-  "RR": 1.2,
-  "TrailSl": false,
-  "increaselotafter": 3,
-  "Vol_Multiplier": 1,
-}
 
